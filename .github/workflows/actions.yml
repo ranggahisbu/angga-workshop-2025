@@ -9,7 +9,7 @@ on:
     - main
     - master
     paths:
-    - .
+    - '*'
 name: Deployment
 jobs:
   semgrep:
