@@ -9,7 +9,7 @@ on:
     - main
     - master
     paths:
-    - .github/workflows/actions.yml
+    - .
 name: Deployment
 jobs:
   semgrep:
